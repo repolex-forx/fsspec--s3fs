@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/fsspec/s3fs/commit/0cdfb8108c204dbf2d10c2f9977f85260220975e",
       "git:hexsha": "0cdfb8108c204dbf2d10c2f9977f85260220975e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/fsspec/s3fs/commit/aba024f1da3b733025011dc19f0924ec842a21d3",
