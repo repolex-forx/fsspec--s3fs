@@ -1,0 +1,11 @@
+{
+  "org": "fsspec",
+  "repo": "s3fs",
+  "versions": [
+    {
+      "commit": "0cdfb8108c204dbf2d10c2f9977f85260220975e",
+      "tag": "",
+      "parsed_at": "2026-10-17T03:17:26.213288+00:00"
+    }
+  ]
+}
